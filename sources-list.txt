@@ -1,0 +1,11 @@
+Pixel 3a XL (PQ3B.190801.002)
+  - GoogleServicesFramework.apk
+  - GoogleContactsSyncAdapter.apk
+
+APKMirror
+  - GmsCore.apk
+    <https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-18-7-19-release/google-play-services-18-7-19-100400-262610125-android-apk-download/>
+  - Phonesky.apk
+    <https://www.apkmirror.com/apk/google-inc/google-play-store/google-play-store-21-9-50-release/google-play-store-21-9-50-21-0-pr-332575755-android-apk-download/>
+  - GoogleCalendarSyncAdapter.apk
+    <https://www.apkmirror.com/apk/google-inc/google-calendar-sync/google-calendar-sync-6-0-32-246984162-release-release/google-calendar-sync-6-0-32-246984162-release-android-apk-download/>
